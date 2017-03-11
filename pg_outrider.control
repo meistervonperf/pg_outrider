@@ -1,0 +1,5 @@
+# pg_outrider extension
+comment = 'A background worker that automatically extends the relation specified by the invocation parameter'
+default_version = '1.0'
+module_pathname = '$libdir/pg_outrider'
+relocatable = true
